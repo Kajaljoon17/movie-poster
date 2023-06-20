@@ -1,0 +1,123 @@
+
+body{ 
+    
+    height: 200vh; 
+    padding-left: 18%; 
+              
+}
+.container{ 
+    position: absolute;
+    display: inline block;
+    margin:0 auto;
+    text-align:center;
+    color: rgb(202, 202, 31);
+    height: 1000px;
+    width: 800px;
+    padding-bottom: 20px;
+    padding-top: 15px;; 
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: 'Merriweather', serif;
+    background-image: url(rain-man-movie-poster-1988-1010175213.jpg);
+    /* width: 100%;
+    height: 100%; */
+    
+}
+.names{
+  position: absolute;
+  top: 75px;
+  left: 150px;
+  font-size:xx-large;
+  justify-content: center;
+  
+     
+}
+.tom{
+    position: absolute;
+    top: 75px;
+    right: 150px;
+    font-size:xx-large; 
+        
+}
+.top{ 
+    position: relative;
+    text-align:center; 
+    color: rgb(220, 220, 199)0;
+    font-size: larger;
+    top:70%;
+    width:100%;
+    justify-content: center;     
+}
+
+.title{
+    position: relative;
+    text-align:center; 
+    color: rgb(220, 220, 199);
+    font-size:xx-large;
+    top:70%;
+    width:100%;
+  } 
+.content{
+    position: relative;
+    text-align: center;
+    color: rgb(220, 220, 199);
+    font-size: larger;
+    top:70%;
+    width:100%;
+ 
+}
+.Starring{
+    position: relative;
+    text-align: center;
+    color: rgb(220, 220, 199);
+    font-size: larger;
+    top:70%;
+    width:100%;
+    
+}
+.producers{
+    position: relative;
+    text-align: center;
+    color: rgb(220, 220, 199);
+    font-size: larger;
+    top:70%;
+    width:100%;
+    
+}
+.producedBy{
+    position: relative;
+    text-align: center;
+    color: rgb(220, 220, 199);
+    font-size: larger;
+    top:70%;
+    width:100%;
+    
+}
+.releaseDate{
+    position: relative;
+    text-align: center;
+    color: rgb(220, 220, 199);
+    font-size: larger;
+    top:70%;
+    width:100%;
+    
+}
+.last{
+    position: relative;
+    text-align: center;
+    color: rgb(220, 220, 199);
+    font-size: larger;
+    top:70%;
+    width:100%;
+    
+}
+
+a {
+    color: rgb(41, 164, 198);
+    top:70%;
+    width:100%;
+    position: relative;
+    text-align: center;
+ 
+}
+
